@@ -1,2 +1,2 @@
-# relational-databases
-This is my Relational Databases learning journey.
+## relational-databases
+Here is everything I've learned to get the Relational Databases Certificate from freeCodeCamp.
